@@ -1,15 +1,23 @@
-# Crear VM Completa en Azure (PowerShell)
+# ✅ **7. azure-create-vm — README.md**
 
-Este script despliega automáticamente:
+```md
+# 🖥️ Azure VM Full Deployment (PowerShell)
 
-✅ Grupo de recursos  
+Script que despliega una infraestructura COMPLETA en Azure:
+
+✅ Resource Group  
 ✅ VNET  
 ✅ Subnet  
-✅ IP pública  
+✅ IP Pública  
 ✅ NIC  
 ✅ VM Ubuntu  
 
-## Ejecución
+## ✅ Tecnologías
+
+- Azure PowerShell (Az)
+- Infraestructura básica IaaS
+
+## ▶️ Uso
 
 ```powershell
 Connect-AzAccount
